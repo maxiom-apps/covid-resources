@@ -15,7 +15,7 @@ Thank you,
 
 ## Global Resources🌐
 1. World Heath Organization (WHO) - [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
-2. Centers of Diseases Control and Prevention (CDC)  - [https://www.cdc.gov/coronavirus/2019-ncov/index.html](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+2. Centers for Disease Control and Prevention (CDC)  - [https://www.cdc.gov/coronavirus/2019-ncov/index.html](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 3. European Centre for Disease Prevention and Control(ECDC)- [https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases)
 
 ## Stuff For Kids
