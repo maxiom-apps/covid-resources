@@ -6,6 +6,8 @@ Thank you,
 
 [Maxiom Team](http://www.maxiomtech.com)
 
+NOTE: If you want to share a link, you can submit it here [https://forms.gle/CsSUbxELCVHsUqjP9](https://forms.gle/CsSUbxELCVHsUqjP9)
+
 ## COVID Trackers📺
 1. Covidhub - [https://www.covidhub.com/](https://www.covidhub.com/)
 2. Bing Covid-19 Tracker - [https://www.bing.com/covid](https://www.bing.com/covid)
