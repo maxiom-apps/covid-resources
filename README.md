@@ -1,5 +1,5 @@
 
-# EXTENSIVE LIST OF COVID RESOURCES
+# LIST OF COVID RESOURCES
 Since the world is staying home, we figured we should put together a list of available resources that could help us through this interesting times.
 
 Thank you,
