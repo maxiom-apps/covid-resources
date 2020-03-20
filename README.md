@@ -1,10 +1,10 @@
 
 # LIST OF COVID RESOURCES
-Since the world is staying home, we figured we should put together a list of available resources that could help us through this interesting times.
+Since the world is staying home, we figured we should put together a list of available resources that could help us through these interesting times.
 
-Thank you,
+Thank you and stay safe,
 
-[Maxiom Team](http://www.maxiomtech.com)
+[The Maxiom Team](http://www.maxiomtech.com)
 
 NOTE: If you want to share a link, you can submit it here [https://forms.gle/CsSUbxELCVHsUqjP9](https://forms.gle/CsSUbxELCVHsUqjP9)
 
