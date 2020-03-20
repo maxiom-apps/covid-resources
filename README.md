@@ -13,14 +13,22 @@ Thank you,
 4. COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)- [https://www.arcgis.com/](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 5. COVID-19 CORONAVIRUS OUTBREAK - [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
-
 ## Global Resources🌐
 1. World Heath Organization (WHO) - [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 2. Centers of Diseases Control and Prevention (CDC)  - [https://www.cdc.gov/coronavirus/2019-ncov/index.html](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 3. European Centre for Disease Prevention and Control(ECDC)- [https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases)
 
+## Stuff For Kids
+1. Audible Free for Kids - [https://stories.audible.com/](https://stories.audible.com/)
+
+
+
 ## Country Based Resources🎌
-****Egypt🇪🇬****
+### USA
+1. [Small Business Administration](https://www.sba.gov/)
+1. [Center for Disease Control (CDC)](http://www.cdc.gov)
+
+### Egypt🇪🇬
  - Egypt Cars (Offical) - [http://care.gov.eg/](http://care.gov.eg/)
  - Ministry of Health and Population Egypt [http://www.mohp.gov.eg/](http://www.mohp.gov.eg/)
 
