@@ -74,6 +74,7 @@ NOTE: If you want to share a link, you can submit it here [https://forms.gle/CsS
 ## Stuff For Kids
 1. [Children and Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/prepare/children.html)
 2. [How to talk to children about the coronavirus](https://www.health.harvard.edu/blog/how-to-talk-to-children-about-the-coronavirus-2020030719111)
+3. Audible Free for Kids - [https://stories.audible.com/](https://stories.audible.com/)
 
 
 
